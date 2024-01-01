@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @INSTHOLDERR
+- 👋 Hi, I’m @NIKHIL
 - 👀 I’m interested in coding.......
 - 🌱 I’m currently learning coding and also new coding languages.......
 - 💞️ I’m looking to collaborate on your projects.........
-- 📫 you can reach me through my github.
+- 📫 you can reach me through nikhilpramod425@gmail.com.
 - Now i am studying MERN stack.
 - 
 
